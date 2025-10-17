@@ -296,11 +296,11 @@ Synthesis requires three files as follows,
 ◦ Liberty Files (.lib)
 ◦ Verilog/VHDL Files (.v or .vhdl or .vhd)
 #### For case statement
-<img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/a5df1852-3eaa-4184-999a-483a4d1073fc" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/3d33b4f8-e08a-4931-af3e-a36f78ac9272" />
 
 
 #### For ifelseif statement
-<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/11b16fd6-2e5f-4050-8aeb-7177c85b8a15" />
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/93a35592-e0a0-4fa3-b285-8d0fa3f6b53c" />
 
 
 
@@ -320,29 +320,38 @@ The Liberty files are present in the library path,
 
 #### Fig 8: Synthesis RTL Schematic using case and ifelseif construct
 #### case
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/c22c5c57-dcf9-4837-a7e3-054b603834c7" />
+
 
 #### ifelseif
 
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/191f18a5-a3ce-498a-9779-28fe1561ef55" />
 
 
 #### Fig 9: Area report of case and ifelseif construct
 #### case
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/3126182b-8e06-47f9-84ac-0555285e0820" />
 
 #### ifelsif
+<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/c460c30e-6df4-4c0d-8e61-34bbf77fff5a" />
 
 
 #### Fig 10: Power Report of case and ifelseif construct
 
 #### case
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/1397c54d-7a6d-49ca-8cbb-e60709dff8c2" />
 
 #### ifelseif
+<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/eb2cb753-48e6-47ee-8be0-d50c235bb129" />
 
 
 #### Fig 11: Timing Report of case and ifelseif construct
 
 #### case
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/707e40cc-a972-49ad-bb78-57294aeb48a7" />
 
 #### ifelseif
+<img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/b3b61065-85f0-462c-97a8-d8a574e9bf99" />
 
 
 #### Fig 12: Tabulate Area,Power and Timing Report Comparision of ALU using case and ifelseif construct
