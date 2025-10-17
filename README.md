@@ -221,7 +221,7 @@ Worklib is the directory where all the compiled codes are stored while Snapshot 
 
 ### case
 <img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/e434054d-a9ec-420f-b22e-ff9301ee3d55" />
-### ifelseif
+###  ifelseif
 <img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/150432d9-caa3-41cd-8ea0-0958bf1a076f" />
 
 
@@ -257,7 +257,7 @@ Outputs: Elaborate database updated in the mapped library if successful, generat
 After elaboration, the file will come under snapshot. Select the test bench and simulate it.
 ### case
 <img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/2fa46ac5-e1a0-47ce-ad21-95f9e739f75e" />
-### ifelseif
+###  ifelseif
 <img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/902121d4-f201-4e5d-831c-6447821912d0" />
 
 
@@ -275,7 +275,7 @@ Simulations allow dumping design and test bench signals into a waveform
 Steps for simulation – Run the simulation command with simulator options
 ### case
 <img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/bc5bef00-b3c0-4543-ad57-948915065629" />
-### ifelseif
+###  ifelseif
 
 
 #### Fig 6: Design Browser window for simulation
@@ -283,7 +283,7 @@ Steps for simulation – Run the simulation command with simulator options
 
 <img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/e47a8958-5dfd-4661-b904-90f02fcdde82" />
 
-### ifelseif
+###  ifelseif
 
 <img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/a8178fd2-de69-4f26-a909-4838c374754a" />
 
